@@ -47,10 +47,3 @@ The goal was to identify payment delays, understand operational bottlenecks, and
 - More predictable cash outflows
 
 ---
-
-## Tools Used
-- Microsoft Excel (Data Cleaning, Pivot Analysis, Dashboarding)
-
----
-
-## Project Structure
